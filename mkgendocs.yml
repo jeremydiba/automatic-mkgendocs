@@ -5,7 +5,7 @@ site_name: Example Site
 repo_name: Example
 repo: https://github.com/
 # Copyright
-copyright: Copyright Spiny.ai
+copyright: Jeremy DiBattista
 
 #This specifies the autogeneration portion
 pages:
