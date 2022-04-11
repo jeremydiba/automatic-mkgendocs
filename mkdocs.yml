@@ -1,0 +1,28 @@
+site_name: Example site
+
+
+# Repository
+repo_name: Example
+repo_url: https://github.com/
+edit_uri: ""
+# Copyright
+copyright: Jeremy DiBattista
+
+docs_dir: "docs/sources"
+
+plugins:
+  - search
+
+theme:
+  name: 'material'
+  custom_dir: 'docs'
+  palette:
+    primary: 'white'
+  logo: 'assets/images/logo_full.svg'
+  favicon: 'assets/images/favicon.svg'
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - instant
+nav:
+  - Home: index.md
