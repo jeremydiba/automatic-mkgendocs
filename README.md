@@ -11,3 +11,5 @@ https://towardsdatascience.com/easily-automate-and-never-touch-your-documentatio
 
 If you appreciate the content, consider donating here!
 https://ko-fi.com/jeremydibattista
+
+It will all be reinvested into future articles
